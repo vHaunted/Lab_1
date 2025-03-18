@@ -1,0 +1,39 @@
+.site-title {
+    font-size: 22px !important;
+    max-width: 397px;
+}
+
+#content {
+    width: 65%;
+    margin: auto;
+}
+
+@media (max-width: 1100px) {
+    #content {
+        width:auto;
+    }
+}
+
+#sidebar-primary {
+    min-width: 200px;
+}
+
+.su-divider {
+    clear: both;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    text-align: right;
+    line-height: 1;
+}
+
+/* @media (max-width: 768px) {
+    .container {
+        padding: 0px;
+    }
+} */
+
+
+
+
+
